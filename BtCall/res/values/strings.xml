@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BtCall</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="call_numb">拨号盘</string>
+    <string name="call_records">通话记录</string>
+	<string name="phone_book">电话本</string>
+	<string name="speed_dail">快速拨号</string>
+</resources>
